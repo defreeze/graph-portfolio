@@ -1,0 +1,13 @@
+body {
+    background: #181a1b;
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+#network {
+    width: 100vw;
+    height: 100vh;
+}
+.vis-network {
+    background: transparent !important;
+}
